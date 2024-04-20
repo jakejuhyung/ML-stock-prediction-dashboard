@@ -2,7 +2,7 @@
 • Predicting future stock prices of Microsoft (MSFT) using a Long Short-Term Memory (LSTM) model, and visualizing the data using a Streamlit dashboard application
 
 # Phase 1: EDA + Data cleaning
-• Analyzed and classified stocks based on riskiness through calculating financial indicators metrics such as Moving Average Convergence Divergence (MACD) and Relative Strength Index (RSI). This analysis allowed insights in understand historical trends, price momentum, and potential overbought or oversold conditions.  
+• Analyzed and classified stocks based on riskiness through calculating financial indicators metrics such as Moving Average Convergence Divergence (MACD) and Relative Strength Index (RSI), and volatility. This analysis allowed insights in understand historical trends, price momentum, and potential overbought or oversold conditions.  
 • Cleaned the data to identify outliers by calculating Interquartile Range (IQR) and Standard Deviation (SD) to pinpoint key events like market crashes and stock splits.
 
 
